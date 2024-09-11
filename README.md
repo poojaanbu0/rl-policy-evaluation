@@ -174,6 +174,13 @@ else:
 
 ## OUTPUT:
 ### Policy 1:
+![image](https://github.com/user-attachments/assets/be048541-db0b-48b9-a666-31e88efd5396)
+
+### Policy 2:
+![image](https://github.com/user-attachments/assets/538797ea-f4bb-40f0-b2ca-7fb82459a773)
+
+### Comparison:
+![image](https://github.com/user-attachments/assets/318dff89-05af-4350-996f-6ddf550676bf)
 
 ## RESULT:
 Thus, the reinforcement learning agent successfully learns an optimal policy for navigating the environment, improving its decisions through iterations.
